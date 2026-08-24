@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.1"
+  version: "1.2.2"
 
 package:
   name: raschpy
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/raschpy/raschpy-${{ version }}.tar.gz
-  sha256: b69d7c38d09873c288f2c6bfac2ee7c54860dc4ab3d3404c62888d9a11731e56
+  sha256: 01cc97e283438d043210b75a1823ed10342a9e710e3c998d4f2a82f74741bcb8
 
 build:
   number: 0
